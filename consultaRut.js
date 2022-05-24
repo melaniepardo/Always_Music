@@ -5,3 +5,5 @@ async function consultaRut(rut) {
 }
 consultaRut('12.345.678-9')
     .then(() => client.end());
+
+module.exports = consultaRut
