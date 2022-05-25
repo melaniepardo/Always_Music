@@ -11,3 +11,5 @@ CREATE TABLE estudiantes (
     curso varchar(20) NOT NULL,
     nivel INT NOT NULL
 );
+
+
